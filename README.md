@@ -128,8 +128,8 @@ Contact Me / Hire Me
 ---------
 
 If you have any question, comment, or issue, please let me know via:
-- hi@webpraktikos.com
-- https://twitter.com/webpraktikos
+- julien.yasar@gmail.com
+- https://twitter.com/eggsandbread
 - or open an issue on GitHub (Issues → New issue)
 
 License
